@@ -1,0 +1,1 @@
+Intermediate data that has been transformed. I.e. pdf that was converted to text.
